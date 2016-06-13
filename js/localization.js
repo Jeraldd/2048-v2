@@ -49,7 +49,7 @@ String.toLocaleString({
 		"%credits"              : "Cupcakes images by <a href=\"http://www.georgetowncupcake.com/\" title=\"Georgetown Cupcake | DC Cupcakes | About\">Georgetown Cupcake</a>.",
 		"%tweet1"               : "I scored \"",
 		"%tweet2"               : "\" at 2048-CUPCAKES #2048game",
-		"%tile-legend"          : "<strong class=\"important\">Tile Legend:</strong>",
+		"%tile-legend"          : "<strong class=\"important\">Nivå av plattor, från sämst till bäst:</strong>",
 		'%2'                    : 'christopher gegerfelt',
     '%4'                    : 'maria neuman',
     '%8'                    : 'hampus sonesson',
