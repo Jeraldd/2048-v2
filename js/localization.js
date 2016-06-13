@@ -39,7 +39,7 @@ String.toLocaleString({
 	
 	"en": {
 		"%game-intro"           : "Kan du nå <strong>Awets</strong> nivå?",
-		"%restart-button"       : "Play Again",
+		"%restart-button"       : "Spela igen",
 		"%keep-playing-button"  : "Keep going",
 		"%retry-button"         : "Retry",
 		"%game-won"             : "You win!",
