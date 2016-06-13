@@ -39,11 +39,11 @@ String.toLocaleString({
 	
 	"en": {
 		"%game-intro"           : "Kan du nå <strong>Awets</strong> nivå?",
-		"%restart-button"       : "Spela igen",
-		"%keep-playing-button"  : "Keep going",
-		"%retry-button"         : "Retry",
-		"%game-won"             : "You win!",
-		"%game-over"            : "Game over!",
+		"%restart-button"       : "Starta om",
+		"%keep-playing-button"  : "Fortsätt spela",
+		"%retry-button"         : "Försök igen",
+		"%game-won"             : "Du vann!",
+		"%game-over"            : "Du förlorade!",
 		"%game-explanation"     : "<strong class=\"important\">HUR MAN SPELAR:</strong> Använd <strong>piltangenterna</strong> för att flytta plattorna. När två plattor med samma ansikte rör varandra, <strong>uppgraderas de till en ny, bättre platta!</strong>",
 		"%disclaimer"           : "Denna version är en spin-off av <a href=\"https://github.com/0x0800\">0x0800</a>'s <a href=\"http://0x0800.github.io/2048-CUPCAKES/\">spin-off</a> av originalversionen <a href=\"http://git.io/2048\">2048</a> skapad av <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.<br><br>Plattornas nivåplacering är tänkt att reflektera ens position på kontoret – stort tack till <a href=\"https://www.facebook.com/Felix.Fernebring\">en viss person</a> för dennes hjälp att upprätta en så opartisk ranking som möjligt.",
 		"%credits"              : "Bilderna är tagna från Facebook.",
