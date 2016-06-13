@@ -44,7 +44,7 @@ String.toLocaleString({
 		"%retry-button"         : "Retry",
 		"%game-won"             : "You win!",
 		"%game-over"            : "Game over!",
-		"%game-explanation"     : "<strong class=\"important\">HUR MAN SPELAR:</strong> Använd <strong>piltangenterna</strong> för att flytta plattorna. När två plattor med samma ansikte rör varandra, <strong>uppgraderas de till en ny platta!</strong>",
+		"%game-explanation"     : "<strong class=\"important\">HUR MAN SPELAR:</strong> Använd <strong>piltangenterna</strong> för att flytta plattorna. När två plattor med samma ansikte rör varandra, <strong>uppgraderas de till en ny, bättre platta!</strong>",
 		"%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"http://git.io/cupcakes\">git.io/cupcakes</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
 		"%credits"              : "Cupcakes images by <a href=\"http://www.georgetowncupcake.com/\" title=\"Georgetown Cupcake | DC Cupcakes | About\">Georgetown Cupcake</a>.",
 		"%tweet1"               : "I scored \"",
