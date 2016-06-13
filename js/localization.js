@@ -38,7 +38,7 @@ String.toLocaleString({
 	},
 	
 	"en": {
-		"%game-intro"           : "Join the <strong>Cupcakes!</strong>",
+		"%game-intro"           : "Kan du nå <strong>Awets</strong> nivå?",
 		"%restart-button"       : "Play Again",
 		"%keep-playing-button"  : "Keep going",
 		"%retry-button"         : "Retry",
