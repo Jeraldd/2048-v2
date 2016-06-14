@@ -108,10 +108,10 @@ h1.title {
   float: right; }
 
 .score-container:after {
-  content: "Nivå"; }
+  content: "Poäng"; }
 
 .best-container:after {
-  content: "Bästa nivå"; }
+  content: "Bästa poäng"; }
 
 p {
   margin-top: 0;
