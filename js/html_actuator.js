@@ -67,7 +67,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   // inner.textContent = tile.value;
   // img.style.width = '100%';
   var extra = '';
-  if (Math.random() > 0.5) extra = 'v2';
+  //if (Math.random() > 0.5) extra = 'v2';
   img.src = "style/img/" + tile.value + extra + ".jpg";
   inner.appendChild(img);
 
