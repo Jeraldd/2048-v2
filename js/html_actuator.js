@@ -66,7 +66,9 @@ HTMLActuator.prototype.addTile = function (tile) {
   inner.classList.add("tile-inner");
   // inner.textContent = tile.value;
   // img.style.width = '100%';
-  img.src = "style/img/" + tile.value + ".jpg";
+  var extra = '';
+  if (Math.random() > 0.5) extra = 'v2';
+  img.src = "style/img/" + tile.value + extra + ".jpg";
   inner.appendChild(img);
 
   if (tile.previousPosition) {
